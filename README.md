@@ -1,0 +1,2 @@
+# Mydir
+My study dir
